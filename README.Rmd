@@ -122,7 +122,16 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <p class=footertext2>
 
-**`r speaker`** TBD
+**Benjamin Golub’s** research in economic theory focuses on social and economic networks. His work has examined:
+
+* Learning and gossip: what are the dynamics of information in networks? Who is particularly influential? When do agents learn correctly? When are their beliefs polarized?
+* Coordination in organizations: how do strategic agents in complex organizations coordinate, and how do the networks that connect them matter?
+* Financial contagion: which financial networks are particularly sensitive to sudden breakdowns?
+* Public goods and externalities: in complex favor-trading problems such as pollution reduction, we can use a network perspective to understand how much scope for cooperation there is, who is particularly essential to it, and how to organize negotiations.
+ 
+Since 2015, he has been an Assistant Professor at the Harvard Department of Economics, and prior to that he spent two years as a Junior Fellow at the Harvard Society of Fellows. He was educated at Stanford (Ph.D. in economics) and Caltech (B.S., mathematics).
+
+
 </p>
 
 
