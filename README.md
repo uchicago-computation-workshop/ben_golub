@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/ben_golub/blob/master/2018__golub__tbd_na_na.pdf" >TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/ben_golub/blob/master/2018__golub__when_less_is_more.pdf" >When Less is More: Experimental Evidence on Information Delivery During India's Demonetization</a>
 </h2>
 
 <br>
@@ -37,7 +37,9 @@ output:
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** Abstract. How should policymakers disseminate information: by broadcasting it widely (e.g., via mass media), or letting word spread from a small number of initially informed “seed” individuals? While conventional wisdom suggests delivering information more widely is better, we show theoretically and experimentally that
+this may not hold when people may need to ask questions to fully comprehend the information they were given. In a field experiment during the chaotic 2016 Indian demonetization, we varied how information about demonetization rules was delivered to villages on two dimensions: how many were initially informed (broadcasting versus seeding) and whether the identity of the initially informed was publicly disclosed. The quality of information aggregation is measured in three ways: the volume of conversations about demonetization, level of knowledge about demonetization
+rules, and choice quality in a strongly incentivized decision dependent on understanding the rules. Our results are consistent with four predictions of a model in which people need others’ help to make the best use of announced information, but worry about signaling inability or unwillingness to correctly process information they have access to. First, if who is informed is not publicized, broadcasting improves all three outcomes relative to seeding. Second, under seeding, publicizing who is informed improves all three outcomes. Third, when broadcasting, publicizing who is informed hurts along all three dimensions. Finally, when who is informed is made public, broadcasting is worse along all three dimensions relative to seeding.
 </p>
 
 <br>
@@ -48,7 +50,7 @@ output:
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by TBD.</p>
+<p class=pfblock-header3>A light lunch will be provided by Cedars Mediterranean Kitchen.</p>
 
 <br><br>
 
